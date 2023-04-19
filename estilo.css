@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    background-image: url(img/pexels-tobias-bjørkli-1562058.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+a{
+    text-decoration: none;
+    margin-right: 2vh;
+    font-family: 'Questrial', sans-serif;
+    color: white;
+}
+header{
+    display: flex;
+    margin-top: -2vh;
+}
+.norway{
+    margin: 20vh 0 0 25vh;
+}
+h1{
+    font-size: 120px;
+    margin-bottom: -3vh;
+    letter-spacing: -0.5vh;
+}
+.yellow{
+    color: rgb(255, 217, 0);
+    font-weight: bold;
+    padding: 2vh 0;
+}
+.white{
+    position: absolute;
+    z-index: 2;
+    margin: -21vh 0 0 63vh;
+    font-weight: bold;
+}
+.parr{
+    font-size: small;
+    width: 50vh;
+    margin-left: 1vh;
+}
+.sub{
+    font-size: xx-large;
+    margin-bottom:  -6vh;
+    margin-left: 0.5vh;
+}
+.logo{
+    font-size: xxx-large;
+    margin: 0vh 107vh 0vh 25vh;
+}
+.logod{
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+    position: absolute;
+    margin: -7vh 0 0 33vh;
+}
+.but{
+    margin-top: 5vh;
+}
+.logon{
+    margin-top: 3vh;
+}
+.imuno{
+    position: absolute;
+    z-index: 1;
+    width: 55vh;
+    border-radius: 10px;
+    margin: -57vh 0 0 92vh;
+}
+.imdos{
+    position: absolute;
+    z-index: 1;
+    width: 45vh;
+    border-radius: 10px;
+    margin: -18vh 0 0 94vh;
+}
+.imtres{
+    position: absolute;
+    z-index: 0;
+    width: 45vh;
+    border-radius: 10px;
+    margin: -40vh 0 0 135vh;    
+}
+.red{
+    margin: 29vh 0 0 25vh;
+}
+.Tours{
+    padding: 29vh 0;
+    background-color: rgb(243, 243, 243);
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.guia{
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 143vh;
+}
+h4{
+    margin: 2vh 0 4vh 140vh;
+    
+}
+.tour{
+    width: 90vh;
+    margin: 0vh 1vh 10vh 110vh;
+    direction: rtl;
+    
+}
+.imgtour{
+    position: absolute;
+    z-index: 0;
+    border: 5px solid white;
+}
+.imo{
+    width: 40vh;
+    margin: 0 0 0 40vh;
+}
+.imt{
+    width: 40vh;
+    margin-top: 50vh;
+}
+.imtt{
+    width: 40vh;
+    margin:50vh 0 0 40vh;
+}
+.imf{
+    width: 39vh;
+}
+.btn{
+    margin-left: 160vh;
+    color: white;
+    width: 25vh;
+    height: 6vh;
+    background-color: rgb(255, 217, 0);
+    border: solid 1px rgb(255, 217, 0);
+    border-radius: 7px;
+}
+.ola{
+    position: absolute;
+    z-index: 0;
+    margin-top: -45vh;
+}
+h5{
+    position: absolute;
+    font-size: 15px;
+}
+.ho{
+   margin: 45vh 0 0 43vh;
+}
+.ht{
+   margin: 95vh 0 0 3vh; 
+   color: white;
+}
+.htt{
+    margin: 95vh 0 0 43vh;
+}
+.hf{
+    margin: 48vh 0 0 3vh;
+    color: white;
+}
+.olat{
+    position: absolute;
+}
+h3{
+    margin: 0 0 5vh 10vh;
+    font-size: 40px;
+    font-weight: bold;
+}
+.contact{
+    padding: 60vh 70vh 60vh 72vh;
+    background-image: url(img/pexels-oleksandr-pidvalnyi-1008155.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+label{
+    display: block;
+}
+.label{
+    position: absolute;
+    margin: -9vh 0 0 27vh;
+}
+input{
+    height: 5vh;
+    color: black;
+    border-radius: 7px;
+    border: 1px solid silver;
+    background-color: rgba(250, 249, 247, 0.5);
+    outline: none;
+}
+.box{
+    background-color: rgb(240, 248, 255, 0.6);
+    border-radius: 20px;
+    padding: 5vh 5vh 5vh 5vh;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+.name{
+    width: 52.7vh;
+}
+.emnu{
+    width: 26.3vh;
+}
+.mes{
+    width: 52.7vh;
+    height: 25vh;
+}
+.btnt{
+    width: 25vh;
+    height: 5vh;
+    margin: 3vh 0 0 13vh;
+    border-radius: 7px;
+    border: 1px solid rgb(87, 87, 87);
+    background-color: rgb(87, 87, 87);
+    color: white;
+}
+.btnt:hover{
+    background-color: silver;
+    border: silver;
+    color: black;
+}
+.will{
+    margin: 2vh 0 0 1vh;
+    width: 52vh;
+    font-size: small;
+}
+.olatt{
+    position: absolute;
+    margin-top: -40vh;
+}
+.about{
+    background-color: rgb(243, 243, 243);
+    padding: 10vh 50vh 30vh 70vh;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.lorem{
+    width: 70vh;
+    margin-bottom: 7vh;
+}
+.at{
+    color: black;
+}
+.us{
+    font-size: 60px;
+    font-weight: bold;
+    margin: 0vh 15vh 10vh 15vh;
+}
+.carro{
+    margin-left: -15vh;
+}
+.btn:hover{
+    background-color: rgb(199, 169, 2);
+    border: rgb(199, 169, 2);
+}
+.a:hover{
+    color: silver;
+}
+@media (max-wifth: 668px) and (min-width:1023px){
+    *{
+        width: 100%;
+        padding: 10vh;
+    }
+}
